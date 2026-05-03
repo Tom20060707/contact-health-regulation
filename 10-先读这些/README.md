@@ -22,3 +22,5 @@
 现在最推荐的对外讲法是：
 
 > Contact-Health Regulation for contact-rich humanoid policy optimization: 用接触状态提前诊断 PPO 训练是否正在变坏，并据此调节更新策略。
+
+如果需要查每天具体发生了什么，回到根目录看 [每日研究日志](../每日研究日志.md)。那里是唯一的每日记录集合，不再分散到多个重复目录。
